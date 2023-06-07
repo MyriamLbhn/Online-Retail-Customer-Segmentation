@@ -12,7 +12,7 @@ En tant que data scientist, notre mission consiste à :
 - proposer un contrat de maintenance (stabilité de la segmentation dans le temps)
 - proposer des actions marketing
 
-## File organization
+## Arborescence des fichiers
 
 Ce projet est organisé en plusieurs fichiers et dossiers :
 
